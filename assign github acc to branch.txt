@@ -1,0 +1,19 @@
+INSIDE GIT BASH
+
+cd Desktop/Plataforma_RH/
+git config user.name "Sivoc-admon"
+git config user.email "nmartinez@ingenieria-sivoc.com"
+
+git config --global credential.helper 
+git config --global credential.helper ""
+
+git config --local user.name elima123
+git config --local user.email A01808099@tec.mx
+
+
+cd Desktop/Plataforma_RH/
+git config user.name "Sivoc-admon"
+git config user.email "nmartinez@ingenieria-sivoc.com"
+git credential-cache exit
+
+
