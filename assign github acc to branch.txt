@@ -1,5 +1,9 @@
 INSIDE GIT BASH
 
+Windows Credential Manager thingy its true
+Administrador de credenciales
+
+
 cd Desktop/Plataforma_RH/
 git config user.name "Sivoc-admon"
 git config user.email "nmartinez@ingenieria-sivoc.com"
@@ -15,5 +19,3 @@ cd Desktop/Plataforma_RH/
 git config user.name "Sivoc-admon"
 git config user.email "nmartinez@ingenieria-sivoc.com"
 git credential-cache exit
-
-
